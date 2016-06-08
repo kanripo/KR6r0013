@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:29.930265
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:08
 #+TITLE: 佛祖歷代通載
 #+PROPERTY: CBETA_ID T49n2036
 #+PROPERTY: ID KR6r0013
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 49, No. 2036
 #+PROPERTY: VOL 49
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6r0013_T_006-0517b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
@@ -76,7 +76,7 @@
 論曰。吳黃武初。陸績有言曰。從今更六¶
 十年。天下車同軌書同文。及泰康改元¶
 而吳平天下一統。果如績言。自是才二¶
-十載。至永寧之初。正道[圬-土+虛]頹群雄嶽峙。¶
+十載。至永寧之初。正道𧇊頹群雄嶽峙。¶
 趙王剏基叛逆。篡主於朝張軌繼請外¶
 遷。擅據涼土內外糜沸。仍漸亂階。劉¶
 淵所以平陽。李雄因茲井絡。懷帝蒙塵¶
