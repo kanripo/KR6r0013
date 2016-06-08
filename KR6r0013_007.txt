@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:28.493944
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:08
 #+TITLE: 佛祖歷代通載
 #+PROPERTY: CBETA_ID T49n2036
 #+PROPERTY: ID KR6r0013
